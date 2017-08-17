@@ -44,6 +44,10 @@ please check out the [release notes guidance][] issue.
 ## **Deprecations**
 
 ## **Notable Features**
+#### Scheduling
+* [alpha] Support pod priority and creation of PriorityClasses
+* [alpha] Support priority-based preemption of pods
+
 #### Storage
 
 * Capacity Isolation/Resource Management for Local Ephemeral Storage
